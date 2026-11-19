@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Fonnolossa/Fonnolossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things across the stack — from mobile apps and web tools to security research and connected devices.
 
-Here are some ideas to get you started:
+**Areas**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Mobile — cross-platform apps
+- 🌐 Web — front-end, Node.js, small JS games
+- 🛡️ Security — OSINT, tooling, CTFs
+- 🔌 IoT & AI — embedded systems, automation, models at the edge
+
+**Stack**
+
+`JavaScript` · `TypeScript` · `React Native` · `Expo` · `Node.js` · `Python` · `C/C++` · `Firebase` · `Docker` · `Linux` · `Git`
+
+---
+
+<sub>Pinned repositories below. Issues and PRs welcome.</sub>
